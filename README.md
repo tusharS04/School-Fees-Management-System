@@ -1,4 +1,4 @@
-# School_Fees_Management_System
+# School Fees Management System
 This project “School Fee Management System” is a desktop system enables efficient storage of student records to properly manage the fee records of the students. And it
 also generates messages for due balances it student’s fee. The system is designed for fee management of a college administration department. It makes searching records
 easier and faster.
